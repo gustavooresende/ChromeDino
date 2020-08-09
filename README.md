@@ -20,7 +20,7 @@ Consult the datasheet of your components to get the right pinout.
 
 The Fritzing file with the schematic can be found in the /doc folder.
 
-![alt text](https://github.com/gustavoaguilar/IRLock/blob/master/doc/IRLock_Sketch_bb.png "Circuit")
+![alt text](https://raw.githubusercontent.com/gustavooresende/ChromeDino/master/doc/chromeDino_bb.png "Circuit")
 
 ## Code
 
@@ -51,3 +51,7 @@ Using only one servo and one LDR, the project is limited to avoid only the cactu
 ## Contribute
 
 If you have any suggestion to improve this project, let me know. :)
+
+## Thanks
+
+Special thanks to @gustavoaguilar for the Markdown help. :D
