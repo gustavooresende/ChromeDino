@@ -4,9 +4,7 @@
 #define threshold 290
 #define pinLDR A0
 
-int count = 0;
 Servo s;
-int pos;
 
 void setup()
 {
@@ -21,7 +19,6 @@ void loop()
   // delay(1);
   if (analogRead(pinLDR) > threshold)
   {
-    count++;
     s.write(30);
     delay(100);
     s.write(0);
